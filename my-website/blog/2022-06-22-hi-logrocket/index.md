@@ -1,6 +1,6 @@
 ---
 slug: welcome
-title: Hi LogRocket
+title: Hello LogRocket
 authors: [johnnyreilly]
 tags: [facebook, hello, docusaurus]
 ---
